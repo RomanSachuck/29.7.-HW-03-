@@ -9,6 +9,12 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="EndpointMapper.cs" t="Include" />
+        <e p="Image" t="Include">
+          <e p="unnamed.jpg" t="Include" />
+          <e p="unnamed1.jpg" t="Include" />
+          <e p="unnamed2.jpg" t="Include" />
+        </e>
         <e p="LifeSpot.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -38,6 +44,7 @@
           <e p="Shared" t="Include">
             <e p="footer.html" t="Include" />
             <e p="sideBar.html" t="Include" />
+            <e p="slider.html" t="Include" />
           </e>
           <e p="testing.html" t="Include" />
         </e>
